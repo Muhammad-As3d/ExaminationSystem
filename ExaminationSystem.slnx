@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ExaminationSystem.Api/ExaminationSystem.Api.csproj" />
+    <Project Path="src/ExaminationSystem.Application/ExaminationSystem.Application.csproj" />
+    <Project Path="src/ExaminationSystem.Domain/ExaminationSystem.Domain.csproj" />
+    <Project Path="src/ExaminationSystem.Infrastructure/ExaminationSystem.Infrastructure.csproj" />
+  </Folder>
+</Solution>
