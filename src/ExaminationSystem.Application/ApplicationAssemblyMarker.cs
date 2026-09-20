@@ -1,0 +1,3 @@
+﻿namespace ExaminationSystem.Application;
+
+public class ApplicationAssemblyMarker;
